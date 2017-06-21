@@ -127,3 +127,8 @@ plantilla 5
 plantilla 6
 - font-family: "Roboto Slab", "Verdana", Helvetica, Arial, sans-serif;
 - style="text-transform:uppercase"
+
+
+informacion buscada en
+- http://librosweb.es/libro/bootstrap_3/capitulo_1.html
+- https://www.w3schools.com/bootstrap/default.asp
